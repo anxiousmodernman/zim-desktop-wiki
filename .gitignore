@@ -97,3 +97,6 @@ ENV/
 # debian pybuild
 .pybuild/
 debian/python-module-stampdir/
+
+# Editors
+.vscode
